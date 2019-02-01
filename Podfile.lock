@@ -1,0 +1,16 @@
+PODS:
+  - HMSegmentedControl (1.5.5)
+
+DEPENDENCIES:
+  - HMSegmentedControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HMSegmentedControl
+
+SPEC CHECKSUMS:
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+
+PODFILE CHECKSUM: 6e63660d3098a697ecbe497b952ca1de277eb4c1
+
+COCOAPODS: 1.5.3
